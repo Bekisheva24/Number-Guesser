@@ -1,3 +1,6 @@
+DEPLOYED LINK 
+https://bekisheva24.github.io/Number-Guesser/
+
 **Завершить игру:**
 
 1. Доработать: логику если введенное число неправильное
