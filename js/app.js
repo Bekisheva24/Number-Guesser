@@ -20,7 +20,7 @@ guessBtn.addEventListener("click", function () {
 
 	// validation
 	if (isNaN(guess) || guess < min || guess > max) {
-		setMessage(`Нужно ввести число от ${min} до ${max}`, "red");
+		alert(`Нужно ввести число от ${min} до ${max}`, "red");
 	}
 
 	// check if won
